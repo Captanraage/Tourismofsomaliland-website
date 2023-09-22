@@ -1,0 +1,18 @@
+.darkBG{
+    background: #999;
+}
+.darkerBG{
+    background: #666;
+}
+.darkestBG{
+    background: #333;
+    columns: sm-6;
+}
+header{
+    background: #789;
+    
+}
+
+.mypanel{
+    border: 1px solid whitesmoke;
+}
